@@ -9,6 +9,20 @@
 <!-- Most Languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ys200209&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
+## Projects
+
+**2023 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Movie Reservation Service](https://github.com/ys200209/Movie-Reservation-Service),&nbsp;&nbsp; 영화관 좌석 예매 서비스
+
+**2021 Apr** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F/B development &nbsp;|&nbsp; [Youtube Downloader](https://github.com/ys200209/Youtube-Downloader),&nbsp;&nbsp; Download to MP3 or Video
+
+**2020 Oct** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F/B development &nbsp;|&nbsp; [Community](#),&nbsp;&nbsp; 파이어베이스 기반 교내 커뮤니티
+
+
+## Experience
+
+**2023 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internship ( ~ now )
+
+
 ## Skills & Tools
 
 <img src="https://img.shields.io/badge/Java-A9BCF5?style=flat&logo=OpenJDK&logoColor=white"/></a>
@@ -24,6 +38,9 @@
 <img src="https://img.shields.io/badge/Slack-F5ECCE?style=flat-square&logo=slack&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-F5ECCE?style=flat&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Discord-F5ECCE?style=flat&logo=DiscordlogoColor=white"/></a>
+
+## Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hugh-KR&theme=onedark&column=7&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Algorithm Rating
