@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Python-A9BCF5?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Flask-A9BCF5?style=flat&logo=Flask&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MariaDB-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postgresql-A9BCF5?style=flat&logo=Postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
 
