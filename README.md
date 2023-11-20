@@ -44,10 +44,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hugh-KR&theme=onedark&column=7&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## Algorithm Rating
+<!-- ## Algorithm Rating -->
 <!-- BOJ Tier -->
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys200209)](https://solved.ac/ys200209)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ys200209)](https://solved.ac/ys200209) -->
 
 
 
