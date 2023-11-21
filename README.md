@@ -13,14 +13,14 @@
 
 **2023 May**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Backend development &nbsp;|&nbsp; [Movie Reservation Service](https://github.com/ys200209/Movie-Reservation-Service),&nbsp;&nbsp; 영화관 좌석 예매 서비스
 
-**2021 Apr**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F/B development &nbsp;|&nbsp; [Youtube Downloader](https://github.com/ys200209/Youtube-Downloader),&nbsp;&nbsp; Download to MP3 or Video
+**2021 Apr**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F / B development &nbsp;|&nbsp; [Youtube Downloader](https://github.com/ys200209/Youtube-Downloader),&nbsp;&nbsp; Download to MP3 or Video
 
-**2020 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F/B development &nbsp;|&nbsp; [Community](#),&nbsp;&nbsp; 파이어베이스 기반 교내 커뮤니티
+**2020 Oct**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;F / B development &nbsp;|&nbsp; [Community](#),&nbsp;&nbsp; 파이어베이스 기반 교내 커뮤니티
 
 
 ## Experience
 
-**2023 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internship ( ~ now )
+**2023 Jul**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Internship ( ~ now )
 
 
 ## Skills & Tools
