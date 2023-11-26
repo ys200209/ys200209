@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/MariaDB-A9BCF5?style=flat&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Postgresql-A9BCF5?style=flat&logo=Postgresql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-A9BCF5?style=flat&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gitlab-A9BCF5?style=flat&logo=Gitlab&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github Actions-A9BCF5?style=flat&logo=GithubActions&logoColor=white"/></a>
 
 
